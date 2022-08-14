@@ -1,0 +1,4 @@
+{"tweet_id": "758740312047005698", "retweet_count": "1499", "favorite_count": "5381"}
+{"tweet_id": "758474966123810816", "retweet_count": "914", "favorite_count": "3562"}
+{"tweet_id": "758467244762497024", "retweet_count": "2029", "favorite_count": "4477"}
+{"tweet_id": "758405701903519748", "retweet_count": "1764", "favorite_count": "4877"}
