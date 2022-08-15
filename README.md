@@ -1,6 +1,6 @@
 # Data Wrangling on Twitter data - (alx-udacity)
 
-The aim of this project is **to gather, access and clean data, to create reliable analysis.**  The data for this project is the tweet archive of `@dog_rates`, also known as `WeRateDogs`. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
+The aim of this project is **to gather, access and clean data, to create reliable analysis.**  The dataset used is the tweet archive of `@dog_rates`, also known as `WeRateDogs`. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 
 The initial WeRateDogs twitter archive doesn't contain all the required information/variables for this project. Such variables include number of retweet, number of likes. These variables are very important for this analysis, hence I'll be using the **Twitter API** to query these additional information
 
